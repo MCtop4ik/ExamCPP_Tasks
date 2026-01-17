@@ -7,4 +7,4 @@
 # [Bitset](/Exam_I-semester/Task7/task.cc)
 # [Custom toOneArg function](/Exam_I-semester/Task8/task.cc)
 # [Array](/Exam_I-semester/Task9/task.cc)
-# [Idk, task for 30. Looks like functor](/Exam_I-semester/Task9/task.cc)
+# [Idk, task for 30. Looks like functor](/Exam_I-semester/Task10/task.cc)
