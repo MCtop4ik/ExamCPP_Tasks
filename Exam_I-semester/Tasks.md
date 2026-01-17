@@ -15,6 +15,7 @@
 ![Score](https://img.shields.io/badge/Score-30-green)
 [![Solution](https://img.shields.io/badge/Solution-green)](/Exam_I-semester/Task10/solution.cc)
 ## [Call After](/Exam_I-semester/Task11/task.cc)
+![Novadays](https://img.shields.io/badge/Buggy-purple?logo=sharex)
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=starship)
 ![Score](https://img.shields.io/badge/Score-30-green)
 [![Solution](https://img.shields.io/badge/Solution-red)](/Exam_I-semester/Task11/solution.cc)
