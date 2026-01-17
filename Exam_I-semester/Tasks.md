@@ -18,7 +18,7 @@
 ![Novadays](https://img.shields.io/badge/Buggy-purple?logo=sharex)
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=starship)
 ![Score](https://img.shields.io/badge/Score-30-green)
-[![Solution](https://img.shields.io/badge/Solution-red)](/Exam_I-semester/Task11/solution.cc)
+[![Solution](https://img.shields.io/badge/Solution-green)](/Exam_I-semester/Task11/solution.cc)
 ## [Queue](/Exam_I-semester/Task12/task.cc)
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=starship)
 ![Score](https://img.shields.io/badge/Score-20-green)
