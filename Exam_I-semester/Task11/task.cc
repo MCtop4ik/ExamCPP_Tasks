@@ -11,6 +11,7 @@ void exit2() {
 }
 
 int main() {
+    Call call_after;
     call_after(exit1);
     call_after(exit2);
     std::cout << "Work ";
