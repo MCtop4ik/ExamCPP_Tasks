@@ -9,7 +9,7 @@
 ## [Array](/Exam_I-semester/Task9/task.cc)
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=starship)
 ![Score](https://img.shields.io/badge/Score-15-green)
-![Solution](https://img.shields.io/badge/Solution-red)
+[![Solution](https://img.shields.io/badge/Solution-green)](/Exam_I-semester/Task9/solution.cc)
 ## [Some task, functor or functions](/Exam_I-semester/Task10/task.cc)
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=starship)
 ![Score](https://img.shields.io/badge/Score-30-green)
