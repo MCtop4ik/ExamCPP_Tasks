@@ -26,7 +26,7 @@
 ## [Class of arithmetic operations](/Exam_I-semester/Task13/task.cc)
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=starship)
 ![Score](https://img.shields.io/badge/Score-15-green)
-[![Solution](https://img.shields.io/badge/Solution-red)](/Exam_I-semester/Task13/solution.cc)
+[![Solution](https://img.shields.io/badge/Solution-green)](/Exam_I-semester/Task13/solution.cc)
 
 ## [Int2StrDict](/Exam_I-semester/Task1/task.cc)
 ![Score](https://img.shields.io/badge/Score-30-green) 
