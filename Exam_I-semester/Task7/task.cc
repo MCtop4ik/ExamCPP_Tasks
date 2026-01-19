@@ -1,4 +1,4 @@
-int main {
+int main() {
   BitArray a{16};
 
   // This line nonsence. This by the way mean you need just allocate 2 bytes at

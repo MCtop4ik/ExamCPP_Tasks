@@ -1,7 +1,7 @@
 ## [Bitset](/Exam_I-semester/Task7/task.cc)
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=starship)
 ![Score](https://img.shields.io/badge/Score-20-green)
-![Solution](https://img.shields.io/badge/Solution-red)
+[![Solution](https://img.shields.io/badge/Solution-green)](/Exam_I-semester/Task7/solution.cc)
 ## [Custom toOneArg function](/Exam_I-semester/Task8/task.cc)
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=starship)
 ![Score](https://img.shields.io/badge/Score-30-green)
