@@ -1,2 +1,2 @@
 # is-op
-Tasks, Solutions, Theory on C++
+Tasks for preparing, Theory on C++
