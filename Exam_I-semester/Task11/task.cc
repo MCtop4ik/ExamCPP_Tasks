@@ -1,6 +1,7 @@
 // Следующий код должен компилироваться и выводить
 // Work Exit Exit
 // std запрещен
+#include <iostream>
 
 void exit1() {
     std::cout << " Exit\n"

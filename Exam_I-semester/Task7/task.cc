@@ -1,3 +1,5 @@
+#include <assert.h>
+
 int main() {
   BitArray a{16};
 
