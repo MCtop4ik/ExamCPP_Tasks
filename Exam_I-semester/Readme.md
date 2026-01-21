@@ -22,7 +22,7 @@
 ![Score](https://img.shields.io/badge/Score-30-green)
 ## [Call After](/Exam_I-semester/Task11/task.cc)
 <!-- ![Buggy](https://img.shields.io/badge/Buggy-purple?logo=sharex) -->
-![Score](https://img.shields.io/badge/Score-30-green)
+![Score](https://img.shields.io/badge/Score-20-green)
 ## [Queue](/Exam_I-semester/Task12/task.cc)
 ![Score](https://img.shields.io/badge/Score-20-green)
 ## [Class of arithmetic operations](/Exam_I-semester/Task13/task.cc)
