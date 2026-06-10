@@ -1,1 +1,12 @@
-
+## [](/Exam_II-semester/Task1/task.cc)
+![Score](https://img.shields.io/badge/Score-NA-orange)
+## [](/Exam_II-semester/Task2/task.cc)
+![Score](https://img.shields.io/badge/Score-NA-orange)
+## [](/Exam_II-semester/Task3/task.cc)
+![Score](https://img.shields.io/badge/Score-NA-orange)
+## [](/Exam_II-semester/Task4/task.cc)
+![Score](https://img.shields.io/badge/Score-NA-orange)
+## [](/Exam_II-semester/Task5/task.cc)
+![Score](https://img.shields.io/badge/Score-NA-orange)
+## [](/Exam_II-semester/Task6/task.cc)
+![Score](https://img.shields.io/badge/Score-NA-orange)
