@@ -1,7 +1,9 @@
-# CPP Tasks
+# C++ Tasks
 Tasks for preparing, Theory on C++
-## [I-semesterExam](Exam_I-semester)
-## [II-semesterExam (Actual) ](Exam_II-semester)
+
+## Contents
+- **[I semester Exam Tasks](Exam_I-semester)**
+- **[II semester Exam Tasks (Actual)](Exam_II-semester)**
 
 ## How to use
 1) Copy project
