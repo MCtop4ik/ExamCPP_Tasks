@@ -1,3 +1,5 @@
+# I semester Exam
+
 ## [Int2StrDict](/Exam_I-semester/tasks/Task1/task.cc)
 ![Score](https://img.shields.io/badge/Score-30-green) 
 ## [Bit11Array](/Exam_I-semester/tasks/Task2/task.cc)
@@ -27,3 +29,5 @@
 ![Score](https://img.shields.io/badge/Score-20-green)
 ## [Class of arithmetic operations](/Exam_I-semester/tasks/Task13/task.cc)
 ![Score](https://img.shields.io/badge/Score-15-green)
+
+If you have found this repository helpful, please consider leaving a star :star:. Thank you! :hugs:
