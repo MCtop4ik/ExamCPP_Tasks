@@ -28,3 +28,5 @@
 ![Score](https://img.shields.io/badge/Score-NA-orange)
 ## [LazyEvaluatedMap](/Exam_II-semester/tasks/Task15/main.cc)
 ![Score](https://img.shields.io/badge/Score-NA-orange)
+
+If you have found this repository helpful, please consider leaving a star :star:. Thank you! :hugs:
