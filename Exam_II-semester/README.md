@@ -15,11 +15,11 @@
 
 ## [Sum in compile time](/Exam_II-semester/tasks/Task4/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
-![Score](https://img.shields.io/badge/Score-NA-orange)
+![Score](https://img.shields.io/badge/Score-10-green)
 
 ## [N-th argument in compile time](/Exam_II-semester/tasks/Task5/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
-![Score](https://img.shields.io/badge/Score-NA-orange)
+![Score](https://img.shields.io/badge/Score-20-green)
 
 ## [Count amount of types without sizeof... in compile time](/Exam_II-semester/tasks/Task6/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
@@ -27,7 +27,7 @@
 
 ## [Remove ptr in compile time](/Exam_II-semester/tasks/Task7/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
-![Score](https://img.shields.io/badge/Score-NA-orange)
+![Score](https://img.shields.io/badge/Score-10-green)
 
 ## [Contains, Count (first arg is input, other... on what check) in compile time](/Exam_II-semester/tasks/Task8/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
@@ -35,15 +35,15 @@
 
 ## [Check is type array in compile time](/Exam_II-semester/tasks/Task9/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
-![Score](https://img.shields.io/badge/Score-NA-orange)
+![Score](https://img.shields.io/badge/Score-10-green)
 
 ## [Arity of number in compile time](/Exam_II-semester/tasks/Task10/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
-![Score](https://img.shields.io/badge/Score-NA-orange)
+![Score](https://img.shields.io/badge/Score-10-green)
 
 ## [Check on arith progression in compile time](/Exam_II-semester/tasks/Task11/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
-![Score](https://img.shields.io/badge/Score-NA-orange)
+![Score](https://img.shields.io/badge/Score-10-green)
 
 ## [Check on BST in compile time](/Exam_II-semester/tasks/Task12/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
@@ -59,6 +59,6 @@
 
 ## [LazyEvaluatedMap](/Exam_II-semester/tasks/Task15/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
-![Score](https://img.shields.io/badge/Score-20-orange)
+![Score](https://img.shields.io/badge/Score-30-green)
 
 If you have found this repository helpful, please consider leaving a star :star:. Thank you! :hugs:
