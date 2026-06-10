@@ -1,5 +1,7 @@
 # C++ Tasks
-Tasks for preparing, Theory on C++
+
+> [!NOTE]
+> Currently this repository contains tasks for C++ Programming Exam.
 
 ## Contents
 - **[I semester Exam Tasks](Exam_I-semester)**
