@@ -47,7 +47,7 @@
 
 ## [Check on BST in compile time](/Exam_II-semester/tasks/Task12/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
-![Score](https://img.shields.io/badge/Score-NA-orange)
+![Score](https://img.shields.io/badge/Score-30-green)
 
 ## [Sort in compile time](/Exam_II-semester/tasks/Task13/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
