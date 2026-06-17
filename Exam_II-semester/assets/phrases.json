@@ -1,6 +1,6 @@
-{
-    "quotes": [
-        "Первая фраза",
-        "Вторая фраза",
-    ]
-}
+[
+  {
+    "quote": "Github Quotes for README",
+    "author": "Compile Goddes"
+  }
+]
