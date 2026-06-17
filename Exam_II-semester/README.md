@@ -73,11 +73,9 @@
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
 ![Score](https://img.shields.io/badge/Score-30-green)
 
-
 ## [Select Top](/Exam_II-semester/tasks/Task20/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
 ![Score](https://img.shields.io/badge/Score-10--20-green)
-
 
 ## [Take Only Integral Types](/Exam_II-semester/tasks/Task21/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
@@ -94,8 +92,6 @@
 ## [RealCoolTask](/Exam_II-semester/tasks/Task18/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
 ![Score](https://img.shields.io/badge/Score-67-purple)
-
-
 
 
 If you have found this repository helpful, please consider leaving a star :star:. Thank you! :hugs:
