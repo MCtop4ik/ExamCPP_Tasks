@@ -7,11 +7,11 @@
 
 ## [Check on prime in compile time](/Exam_II-semester/tasks/Task2/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
-![Score](https://img.shields.io/badge/Score-10--20-orange)
+![Score](https://img.shields.io/badge/Score-10--20-green)
 
 ## [GCD in compile time](/Exam_II-semester/tasks/Task3/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
-![Score](https://img.shields.io/badge/Score-10--20-orange)
+![Score](https://img.shields.io/badge/Score-10--20-green)
 
 ## [Sum in compile time](/Exam_II-semester/tasks/Task4/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
