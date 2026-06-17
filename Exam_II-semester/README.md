@@ -94,4 +94,7 @@
 ![Score](https://img.shields.io/badge/Score-67-purple)
 
 
+
+![Motivation](https://github-readme-quotes-bay.vercel.app/quote?font=Architect&layout=samuel&theme=shades-of-purple&quotesUrl=https://github.com/MCtop4ik/ExamCPP_Tasks/blob/main/Exam_II-semester/assets/phrases.json)
+
 If you have found this repository helpful, please consider leaving a star :star:. Thank you! :hugs:
