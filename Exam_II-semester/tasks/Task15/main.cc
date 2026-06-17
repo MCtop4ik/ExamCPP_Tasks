@@ -32,3 +32,22 @@ int main() {
 
 //     return 0;
 // }
+
+
+// Another test
+// int main() {
+//   LazyEvaluatedMap m;
+//   m["x"] = []() {std::cout << "xxxx"; return 1;};
+
+//   std::cout << m["x"]; // xxxx 1
+//   std::cout << m["x"]; // 1
+//   std::cout << m["x"]; // 1
+
+//   // Kurilov's test
+//   // v v v v v v v v v v v v v v v v v v v v v 
+//   LazyEvaluatedMap z(m.begin(), m.end());
+//   std::cout << z["x"]; // 1
+//   z["x"] = [](){std::cout << "xxxx"; return 1;};
+//   std::cout << z["x"]; // xxxx 1
+//   std::cout << z["x"]; // 1
+// }
