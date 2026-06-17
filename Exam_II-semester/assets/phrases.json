@@ -1,6 +1,16 @@
 [
   {
-    "quote": "Github Quotes for README",
+    "quote": "May the compiler find no errors today, and may all templates of fate instantiate into fortune.",
+    "author": "Compile Goddes"
+  },
+    {
+    "quote": "In the name of <T>, Args..., and the holy compile-time — may luck be with you.",
+    "author": "Compile Goddes"
+  },
+    {
+    "quote": "May the types be deduced, the specializations selected, and your scores — maximal.",
     "author": "Compile Goddes"
   }
 ]
+
+
