@@ -1,6 +1,12 @@
 # II semester Exam
 <!-- ![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat) -->
 
+<img align="left" width="200" src="/Exam_II-semester/assets/compile-goddes-prework.png" alt="img" style="margin-left: 20px;" />
+
+![Cool citation](https://github-readme-quotes-bay.vercel.app/quote?font=Architect&layout=samuel&theme=shades-of-purple&quotesUrl=https://github.com/MCtop4ik/ExamCPP_Tasks/blob/main/Exam_II-semester/assets/phrases.json)
+
+<br clear="both">
+
 ## [Reverse types in tuple pairs in compile time](/Exam_II-semester/tasks/Task1/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
 ![Score](https://img.shields.io/badge/Score-NA-orange)
@@ -92,9 +98,5 @@
 ## [RealCoolTask](/Exam_II-semester/tasks/Task18/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
 ![Score](https://img.shields.io/badge/Score-67-purple)
-
-
-
-![Motivation](https://github-readme-quotes-bay.vercel.app/quote?font=Architect&layout=samuel&theme=shades-of-purple&quotesUrl=https://github.com/MCtop4ik/ExamCPP_Tasks/blob/main/Exam_II-semester/assets/phrases.json)
 
 If you have found this repository helpful, please consider leaving a star :star:. Thank you! :hugs:
