@@ -7,6 +7,26 @@
 
 <br clear="both">
 
+## [FuncStorage](/Exam_II-semester/tasks/Task24/main.cc)
+![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
+![Score](https://img.shields.io/badge/Score-20-green)
+
+## [Hyper Easy Task. Flatten. Everyone has equal points.](/Exam_II-semester/tasks/Task25/main.cc)
+![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
+![Score](https://img.shields.io/badge/Score-20--30-green)
+
+## [FileHashMultimap](/Exam_II-semester/tasks/Task26/main.cc)
+![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
+![Score](https://img.shields.io/badge/Score-30-green)
+
+## [Scheduler](/Exam_II-semester/tasks/Task27/main.cc)
+![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
+![Score](https://img.shields.io/badge/Score-20--30-green)
+
+## [Great Bind](/Exam_II-semester/tasks/Task28/main.cc)
+![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
+![Score](https://img.shields.io/badge/Score-20--30-green)
+
 ## [Reverse types in tuple pairs in compile time](/Exam_II-semester/tasks/Task1/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
 ![Score](https://img.shields.io/badge/Score-NA-orange)
