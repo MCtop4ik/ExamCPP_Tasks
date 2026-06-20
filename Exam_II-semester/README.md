@@ -27,9 +27,9 @@
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
 ![Score](https://img.shields.io/badge/Score-20--30-green)
 
-## [Great Bind](/Exam_II-semester/tasks/Task28/main.cc)
+## [Http Response](/Exam_II-semester/tasks/Task33/main.cc)
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
-![Score](https://img.shields.io/badge/Score-20--30-green)
+![Score](https://img.shields.io/badge/Score-20-green)
 
 ## [Main Exam Task](/Exam_II-semester/tasks/Task29/main.cc)
 ![The freshest task](https://img.shields.io/badge/novadays-brown?logo=airtransat)
