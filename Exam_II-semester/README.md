@@ -120,13 +120,13 @@
 ![Score](https://img.shields.io/badge/Score-10-green)
 
 ## [Bit Numbers](/Exam_II-semester/tasks/Task30/main.cc)
-![Not Even Exam](https://img.shields.io/badge/Archive_2025-696969?style=flat)
+![Not Even Exam](https://img.shields.io/badge/Not_Even_Exam-696969?style=flat)
 
 ## [Super Set](/Exam_II-semester/tasks/Task31/main.cc)
-![Not Even Exam](https://img.shields.io/badge/Archive_2025-696969?style=flat)
+![Not Even Exam](https://img.shields.io/badge/Not_Even_Exam-696969?style=flat)
 
 ## [Split](/Exam_II-semester/tasks/Task32/main.cc)
-![Not Even Exam](https://img.shields.io/badge/Archive_2025-696969?style=flat)
+![Not Even Exam](https://img.shields.io/badge/Not_Even_Exam-696969?style=flat)
 
 ## [RealCoolTask](/Exam_II-semester/tasks/Task18/main.cc)
 ![In Archive 2025](https://img.shields.io/badge/Archive_2025-785027?logo=apacheparquet&style=flat)
