@@ -16,7 +16,7 @@ constexpr auto IsSpliter = []<typename T>(T data) {
     }
 };
 
-void solut() {
+int main() {
     static_assert(std::is_same_v<Split<List<1, 2, 0, 3, 0, 4>, IsSpliter>::type, List<List<1, 2>, List<3>, List<4>>>);
 
     static_assert(std::is_same_v<Split<List<'a', 'b', '0', 'c', '0', 'd'>, IsSpliter>::type,
