@@ -31,6 +31,10 @@
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
 ![Score](https://img.shields.io/badge/Score-20-green)
 
+## [Carry Function](/Exam_II-semester/tasks/Task34/main.cc)
+![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
+![Score](https://img.shields.io/badge/Score-20--30-green)
+
 ## [Main Exam Task](/Exam_II-semester/tasks/Task29/main.cc)
 ![The freshest task](https://img.shields.io/badge/novadays-brown?logo=airtransat)
 ![Score](https://img.shields.io/badge/Score---52-pink)
