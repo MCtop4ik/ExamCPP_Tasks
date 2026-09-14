@@ -4,7 +4,7 @@ Currently this repository contains tasks for C++ Programming Exam.
 
 ## Contents
 - **[I semester Exam Tasks](Exam_I-semester)**
-- **[II semester Exam Tasks (Actual)](Exam_II-semester)**
+- **[II semester Exam Tasks](Exam_II-semester)**
 
 ## How to use
 1) Copy project
