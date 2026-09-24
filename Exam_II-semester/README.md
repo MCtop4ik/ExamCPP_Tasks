@@ -7,6 +7,10 @@
 
 <br clear="both">
 
+## [Coroutine](/Exam_II-semester/tasks/Task35/task.cc)
+![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
+![Score](https://img.shields.io/badge/Score-20--30-green)
+
 ## [FuncStorage](/Exam_II-semester/tasks/Task24/main.cc)
 ![Novadays](https://img.shields.io/badge/novadays-brown?logo=airtransat)
 ![Score](https://img.shields.io/badge/Score-20-green)
